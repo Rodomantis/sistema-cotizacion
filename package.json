@@ -1,0 +1,30 @@
+{
+  "name": "sistema-cotizacion",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-table-select": "^0.2.7",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "firebase": "^3.9.0",
+    "prop-types": "^15.5.9",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.30.10",
+    "react-dom": "^15.5.4",
+    "react-firebase": "^2.2.5",
+    "react-router": "^4.1.1",
+    "react-scripts": "0.9.5",
+    "reactfire": "^1.0.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
